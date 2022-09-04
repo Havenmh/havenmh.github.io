@@ -1,0 +1,54 @@
+header {
+  background-color: #333333;
+  color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  bottom-margin: 130px;
+  }
+
+body {
+  margin: 0;
+  padding: 0;
+  }
+
+.title {
+  font-family: arial;
+  text-align: center;
+  }
+
+.nav {
+  font-family: arial;
+  margin: 0 auto;
+  text-align: center;
+  width: 1%;
+  }
+
+.nav:hover {
+  color: #00ffff;
+  }
+
+.text {
+  padding-top: 130px;
+  }
+
+.end-nav {
+  color: blue;
+  padding: 20px 50px;
+  margin: 0 auto;
+  width: 1%;
+  text-align: center;
+  }
+
+
+.footer {
+  font-family: arial;
+  text-align: center;
+  height: 500px;
+  }
+
+
+
+.image {
+  width: 500px;
+  }
